@@ -1,0 +1,22 @@
+body{
+    background: yellowgreen;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+/* img{
+    width: 100%;
+} */
+
+.title{
+    color: red;
+}
+
+.subtitle{
+    color: blue;
+}
+
+#contact-us{
+    color: chocolate;
+}
